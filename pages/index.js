@@ -16,7 +16,6 @@ import {
 import { BsFillMoonStarsFill } from "react-icons/bs";
 import { useState } from "react";
 import deved from "../public/dev-ed-wave.png";
-import code from "../public/code.png";
 import ecommerce from "../public/ecommerce.png"
 import soon from "../public/soon.jpg"
 
