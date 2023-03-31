@@ -66,4 +66,17 @@ border: 2px solid black;
   .prev {
     left: -60px;
   }
+
+  
 }
+@media screen and (max-width: 640px) {
+  nav{
+    flex-direction: column-reverse;
+    justify-content:center;
+    align-items: end;
+  }
+
+  nav h1{
+    margin-top: 15px;
+  }
+  }
