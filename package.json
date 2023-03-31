@@ -1,5 +1,5 @@
 {
-  "name": "portfolio",
+  "name": "rectify",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -9,10 +9,21 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "eslint": "8.36.0",
-    "eslint-config-next": "13.2.4",
-    "next": "13.2.4",
+    "@fortawesome/fontawesome-free": "^6.4.0",
+    "firebase": "^9.10.0",
+    "moment": "^2.29.4",
+    "next": "^12.3.1",
     "react": "18.2.0",
-    "react-dom": "18.2.0"
+    "react-dom": "18.2.0",
+    "react-icons": "^4.4.0",
+    "react-slick": "^0.29.0",
+    "slick-carousel": "^1.8.1"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.12",
+    "eslint": "8.24.0",
+    "eslint-config-next": "12.3.1",
+    "postcss": "^8.4.16",
+    "tailwindcss": "^3.1.8"
   }
 }
